@@ -1,0 +1,171 @@
+*{
+  background-color:#6592CF;
+}
+
+div {
+  width: 60px;
+  height: 60px;
+  background: #EEB850;
+  border-radius: 100px;
+  margin-left: 57px;
+  margin-top: 100px;
+}
+
+.dois{
+  width: 39px;
+  height: 39px;
+  background: #EEB850;
+  border-radius: 100px;
+  margin-left: 23px;
+  margin-top: -39px;
+}
+
+.tres{
+  width: 39px;
+  height: 39px;
+  background: #EEB850;
+  border-radius: 100px;
+  margin-left: 112px;
+  margin-top: -39px;
+}
+
+.menor{
+  background: #243D83;
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  margin-left: 122px;
+  margin-top: -30px;
+  
+}
+
+.menor1{
+  position:absolute;
+  width: 10px;
+  height: 49px;
+  border-radius: 0;
+  margin-left: 127px;
+  margin-top:-9px;
+  background: #243D83;
+}
+
+.menorDois{
+  background: #243D83;
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  margin-left: 77px;
+  margin-top: -20px;
+}
+
+.menor2{
+  position:absolute;
+  width: 10px;
+  height: 49px;
+  border-radius: 0;
+  margin-left: 82px;
+  margin-top:-9px;
+  background: #243D83;
+}
+.menorTres{
+  background: #243D83;
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  margin-left: 33px;
+  margin-top: -20px;
+}
+
+ .menor3{
+  position:absolute;
+  width: 10px;
+  height: 49px;
+  border-radius: 0;
+  margin-left: 37.5px;
+  margin-top:-9px;
+  background: #243D83;
+ }
+
+.menorQuatro{
+  background: #243D83;
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  margin-left: 86%;
+  margin-top: -20px;
+}
+
+.menor4{
+  position:absolute;
+  width: 10px;
+  height: 49px;
+  border-radius: 0;
+  margin-left: 650px;
+  margin-top:-9px;
+  background: #243D83;
+ }
+.menorCinco{
+  background: #243D83;
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  margin-left: 33px;
+  margin-top: -20px;
+}
+
+.menor5{
+  position:absolute;
+  width: 10px;
+  height: 49px;
+  border-radius: 0;
+  margin-left: 801px;
+  margin-top:-9px;
+  background: #243D83;
+ }
+
+.menorSeis{
+  background: #243D83;
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  margin-left: 75%;
+  margin-top: -20px;
+}
+
+  .menor6{
+  position:absolute;
+  width: 10px;
+  height: 49px;
+  border-radius: 0;
+  margin-left: 953px;
+  margin-top:-9px;
+  background: #243D83;
+ }
+
+.menorSete{
+  background: #243D83;
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  margin-left: 63%;
+  margin-top: -20px;
+}
+
+.menor7{
+  position:absolute;
+  width: 10px;
+  height: 49px;
+  border-radius: 0;
+  margin-left: 1092px;
+  margin-top:-9px;
+  background: #243D83;
+ }
+
+.menorOito {
+  background: #243D83;
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  margin-left: 51%;
+  margin-top: -20px;
+}
